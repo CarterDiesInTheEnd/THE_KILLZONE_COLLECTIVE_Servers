@@ -1,0 +1,2 @@
+# THE_KILLZONE_COLLECTIVE_Servers
+All Weapon Mods for THE KILLZONE COLLECTIVE servers
